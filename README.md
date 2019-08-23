@@ -1,6 +1,6 @@
 # Text Mining: Getting consumer sentiment and trends by harvesting Twitter Tweets
 
-One Paragraph of project description goes here
+Do you want to analyse trends and sentiment about your products or brand? This notebook helps you with a step-by-step guide to find the answers you are looking for in a given text dataset.
 
 ## Getting Started
 
